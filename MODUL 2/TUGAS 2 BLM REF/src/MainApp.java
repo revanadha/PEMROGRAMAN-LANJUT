@@ -1,5 +1,5 @@
 public class MainApp {
-    static final double MIN_SPEED = 5;
+    static final double MIN_SPEED = 500;
     static final double MAX_SPEED = 100;
 
     public static void main(String[] args) {
