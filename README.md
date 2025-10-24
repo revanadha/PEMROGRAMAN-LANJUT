@@ -14,6 +14,7 @@ Program ini hanya menampilkan pesan sambutan ke layar, sebagai contoh latihan da
 ---
 
 ## 🧱 Struktur Folder Proyek
+```
 DocumentationPractice/
 │
 ├── src/
