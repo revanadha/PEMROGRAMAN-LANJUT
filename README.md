@@ -35,7 +35,7 @@ Sebelum menjalankan proyek ini, pastikan perangkat Anda memenuhi syarat berikut:
 | **Java JDK** | 8 atau lebih baru | Digunakan untuk kompilasi dan menjalankan program |
 | **Git** | Terinstal di sistem | Untuk melakukan commit dan push ke GitHub |
 | **Text Editor / IDE** | Bebas (VS Code, IntelliJ, Notepad++, dll) | Untuk menulis dan mengedit kode Java |
-
+```
 Cek apakah Java sudah terinstal:
 ```bash
 java -version
