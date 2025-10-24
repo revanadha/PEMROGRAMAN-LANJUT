@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MODUL 2.iml" filepath="$PROJECT_DIR$/.idea/MODUL 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 1/TUGAS 1.iml" filepath="$PROJECT_DIR$/TUGAS 1/TUGAS 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 1 REF/TUGAS 1 REF.iml" filepath="$PROJECT_DIR$/TUGAS 1 REF/TUGAS 1 REF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 2/TUGAS 2.iml" filepath="$PROJECT_DIR$/TUGAS 2/TUGAS 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 2 BLM REF/TUGAS 2 BLM REF.iml" filepath="$PROJECT_DIR$/TUGAS 2 BLM REF/TUGAS 2 BLM REF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 3/TUGAS 3.iml" filepath="$PROJECT_DIR$/TUGAS 3/TUGAS 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 3 REF/TUGAS 3 REF.iml" filepath="$PROJECT_DIR$/TUGAS 3 REF/TUGAS 3 REF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 1 REF/Tugas1_modul2/Tugas1_modul2.iml" filepath="$PROJECT_DIR$/TUGAS 1 REF/Tugas1_modul2/Tugas1_modul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS 1 REF/tugas1_modul2_refactor/tugas1_modul2_refactor.iml" filepath="$PROJECT_DIR$/TUGAS 1 REF/tugas1_modul2_refactor/tugas1_modul2_refactor.iml" />
+    </modules>
+  </component>
+</project>
