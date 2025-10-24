@@ -26,7 +26,7 @@ DocumentationPractice/
 │
 └── .gitignore → File untuk mengabaikan file/folder tertentu saat push ke GitHub
 ---
-
+```
 ## ⚙️ Persyaratan Sistem
 Sebelum menjalankan proyek ini, pastikan perangkat Anda memenuhi syarat berikut:
 
